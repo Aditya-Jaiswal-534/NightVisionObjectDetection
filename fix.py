@@ -25,5 +25,5 @@ def remove_widgets(filenames):
             print(f"Error processing {file}: {e}")
 
 # Your notebook filenames
-notebook_files = ["final_pix2pix.ipynb", "FinalFastRCNN.ipynb", "FinalFastRCNN.ipynb"]
+notebook_files = ["final_pix2pix.ipynb", "finalYolov8.ipynb", "FinalFastRCNN.ipynb"]
 remove_widgets(notebook_files)
